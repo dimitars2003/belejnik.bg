@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BelejnikApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BelejnikApplication.class, args);
+		SpringApplication.run(BelejnikApplication.class, args);;
 	}
 
 }
